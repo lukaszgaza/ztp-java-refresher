@@ -1,6 +1,7 @@
 # Java Refresher
 
-1. Zaimplementuj klasę generyczną `Tuple<T1, T2, T3>`
+1. Poprawnie zaimplementowane zadanie powinno przechodzić wszystkie testy uruchomione za pomocą `mvn clean test`
+2. Zaimplementuj klasę generyczną `Tuple<T1, T2, T3>`
 * klasa ma reprezentować parę elementów dowolnego typu
 * klasa po przeciążać metodę `toString` i zwracać swoją tekstową reprezentację w formacie `Tuple<V1, V2>`, gdzie
 `VN` to wartość n-tego elementu trójki
